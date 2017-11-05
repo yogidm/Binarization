@@ -1,2 +1,3 @@
 # Binarization
-Some Binarization Project
+
+My binarization project
